@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 intYears = Integer.parseInt(years.getText().toString());
                 intLoan = Integer.parseInt(loan.getText().toString());
                 decInterest = Float.parseFloat(interest.getText().toString());
-                
+
             }
         });
 
